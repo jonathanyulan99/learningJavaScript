@@ -1,6 +1,6 @@
 const monsterHealthBar = document.getElementById('monster-health');
 const playerHealthBar = document.getElementById('player-health');
-const bonusLifeEl = document.getElementById('bonus-life');
+const bonusLifeEl = document.getElementById('bonus-life');//This is the way we grab and manipulate the BONUS LIFE functionality on the webpage
 
 const attackBtn = document.getElementById('attack-btn');
 const strongAttackBtn = document.getElementById('strong-attack-btn');
